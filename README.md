@@ -4,4 +4,4 @@
 
 ### You can add and delete the event
 
-![Adding screen](addingScreen.PNG)
+![Adding screen](addingScreen.png)
